@@ -13,7 +13,7 @@ SQL (PostgreSQL) · Power BI (DAX, Power Query) · Python (pandas) · Excel · D
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
-| London Food Retail Insights *(in progress)* | ~80,000 food businesses from the FSA API, scored by borough for site opportunity | Python, PostgreSQL, Power BI |
+| [London Food Retail Insights](https://github.com/Faizahmad-S/London-Food-Retail-Insights) | Hygiene ratings for 79,726 London food businesses: data quality audit, borough benchmarks and a business-mix test in SQL | Python, PostgreSQL |
 | [Retail Sales Analytics](https://github.com/Faizahmad-S/retail-sales-analytics-sql) | Raw CSV to Power BI: cleaning, YoY analysis, VIP customer segmentation | SQL, PostgreSQL, Power BI |
 | [Stock Market Sentiment Analysis](https://github.com/Faizahmad-S/stock-market-sentiment-analysis) | MSc dissertation: automated news scraping, VADER vs TextBlob, Apple case study | Python, GitHub Actions |
 | [Tech Layoffs SQL Analysis](https://github.com/Faizahmad-S/tech-layoffs-sql-analysis) | Cleaning and window-function analysis of global layoffs, 2020 to 2023 | PostgreSQL |
